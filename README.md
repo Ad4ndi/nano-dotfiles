@@ -2,6 +2,7 @@
 Dotfiles for i3wm/polybar
 
 ## Dependencies
+### Main
 - i3
 - polybar
 - alacritty
